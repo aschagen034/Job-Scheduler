@@ -1,0 +1,12 @@
+# Ignore VS Code configuration files
+.vscode/
+
+# Ignore system files
+.DS_Store
+.bash_history
+
+# Ignore log files
+*.log
+
+# Ignore node_modules folder
+node_modules/
